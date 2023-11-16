@@ -1,15 +1,28 @@
 ---
 title: "My Awesome Presentation"
 author: "Joy Payton"
-format: revealjs
+format:
+  revealjs: 
+    theme: sky
 editor: visual
 ---
 
-## Quarto
+## Quarto is Great!
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
-## Bullets
+::: {.notes}
+Talk about how Quarto is an extension or the next generation of R Markdown.
+
+Quarto can create all kinds of things...
+
+* Manuscripts
+* Reports / Dashboards
+* Slide decks!
+
+:::
+
+## Bulleted Lists
 
 When you click the **Render** button a document will be generated that includes:
 
